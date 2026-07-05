@@ -28,7 +28,7 @@ export const Route = createFileRoute("/admin")({
   component: AdminPage,
 });
 
-const ADMIN_ACCESS_KEY = "admin@123";
+const ADMIN_ACCESS_KEY = "AKSHITADMIN";
 
 type RequestStatus = "Open" | "Closed";
 

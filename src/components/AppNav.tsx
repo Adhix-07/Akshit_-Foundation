@@ -19,7 +19,18 @@ export function AppNav() {
     setIsMobileMenuOpen(false);
   }, [pathname]);
 
-  const visibleItems = items;
+  if (pathname.startsWith("/admin")) {
+    return null;
+  }
+
+  const visibleItems =
+    pathname === "/request" || pathname === "/matches"
+      ? items.filter((item) => item.to === "/" || item.to === "/request" || item.to === "/matches")
+      : pathname === "/donor"
+        ? items.filter((item) => item.to === "/" || item.to === "/donor")
+        : items;
+
+  const isMobileCompactView = pathname === "/request" || pathname === "/matches" || pathname === "/donor";
 
   return (
     <>
@@ -73,7 +84,7 @@ export function AppNav() {
         }`}
       >
         <div className="clay p-3 rounded-3xl shadow-[0_12px_30px_rgba(102,112,133,0.18)]">
-          <nav className="grid grid-cols-2 gap-2">
+          <nav className={`grid gap-2 ${isMobileCompactView ? "grid-cols-2" : "grid-cols-2 sm:grid-cols-3"}`}>
             {visibleItems.map((it) => {
               const Icon = it.icon;
               const active = pathname === it.to;
