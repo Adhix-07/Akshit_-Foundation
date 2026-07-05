@@ -1,0 +1,37 @@
+[
+  {
+    "staff_name": "Dr. Rajesh Kumar",
+    "college_name": "PSG College of Technology",
+    "role": "NSS Incharge",
+    "whatsapp_number": "9843556789",
+    "district": "Coimbatore"
+  },
+  {
+    "staff_name": "Prof. Latha Menon",
+    "college_name": "Government Engineering College, Palakkad (GEC Palakkad)",
+    "role": "NCC Officer",
+    "whatsapp_number": "9847334455",
+    "district": "Palakkad"
+  },
+  {
+    "staff_name": "Dr. Anand Vijayakumar",
+    "college_name": "Kumaraguru College of Technology (KCT)",
+    "role": "NSS Incharge",
+    "whatsapp_number": "9894667788",
+    "district": "Coimbatore"
+  },
+  {
+    "staff_name": "Prof. Sreekumar Nair",
+    "college_name": "Model Engineering College, Kochi",
+    "role": "NCC Officer",
+    "whatsapp_number": "9846223344",
+    "district": "Ernakulam"
+  },
+  {
+    "staff_name": "Dr. Kalaivani Muthusamy",
+    "college_name": "Erode Sengunthar Engineering College",
+    "role": "NSS Incharge",
+    "whatsapp_number": "9942998877",
+    "district": "Erode"
+  }
+]

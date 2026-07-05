@@ -1,0 +1,137 @@
+[
+  {
+    "full_name": "Karthik Subramaniam",
+    "phone_number": "9894512367",
+    "blood_group": "O+",
+    "last_donated_date": "2025-08-15",
+    "latitude": 11.0183,
+    "longitude": 76.9725,
+    "is_active": true
+  },
+  {
+    "full_name": "Priya Lakshmanan",
+    "phone_number": "9843267891",
+    "blood_group": "B+",
+    "last_donated_date": "2025-11-02",
+    "latitude": 11.0058,
+    "longitude": 76.9426,
+    "is_active": true
+  },
+  {
+    "full_name": "Arun Kumar Pillai",
+    "phone_number": "9847123456",
+    "blood_group": "A+",
+    "last_donated_date": "2026-01-10",
+    "latitude": 10.7867,
+    "longitude": 76.6548,
+    "is_active": true
+  },
+  {
+    "full_name": "Divya Bharathi",
+    "phone_number": "9942178654",
+    "blood_group": "O-",
+    "last_donated_date": "2025-06-20",
+    "latitude": 11.341,
+    "longitude": 77.7172,
+    "is_active": true
+  },
+  {
+    "full_name": "Suresh Babu Nair",
+    "phone_number": "9846098721",
+    "blood_group": "AB+",
+    "last_donated_date": "2026-02-14",
+    "latitude": 10.0261,
+    "longitude": 76.308,
+    "is_active": true
+  },
+  {
+    "full_name": "Meena Rajendran",
+    "phone_number": "8940192837",
+    "blood_group": "B+",
+    "last_donated_date": "2025-09-28",
+    "latitude": 11.0296,
+    "longitude": 77.0266,
+    "is_active": true
+  },
+  {
+    "full_name": "Vignesh Raja",
+    "phone_number": "9976543210",
+    "blood_group": "A-",
+    "last_donated_date": "2026-03-05",
+    "latitude": 11.0296,
+    "longitude": 76.9376,
+    "is_active": true
+  },
+  {
+    "full_name": "Lakshmi Narayanan",
+    "phone_number": "9895671234",
+    "blood_group": "O+",
+    "last_donated_date": "2025-12-19",
+    "latitude": 10.015,
+    "longitude": 76.3419,
+    "is_active": true
+  },
+  {
+    "full_name": "Rahul Krishnan",
+    "phone_number": "8891234567",
+    "blood_group": "Bombay",
+    "last_donated_date": "2025-04-11",
+    "latitude": 10.7726,
+    "longitude": 76.6532,
+    "is_active": false
+  },
+  {
+    "full_name": "Anitha Ravichandran",
+    "phone_number": "9976123489",
+    "blood_group": "AB-",
+    "last_donated_date": "2026-01-25",
+    "latitude": 11.3428,
+    "longitude": 77.7274,
+    "is_active": true
+  },
+  {
+    "full_name": "Mohammed Iqbal",
+    "phone_number": "9843998877",
+    "blood_group": "O+",
+    "last_donated_date": "2025-10-07",
+    "latitude": 11.0007,
+    "longitude": 77.0298,
+    "is_active": true
+  },
+  {
+    "full_name": "Sangeetha Murugan",
+    "phone_number": "7708192837",
+    "blood_group": "B-",
+    "last_donated_date": "2026-05-12",
+    "latitude": 11.0022,
+    "longitude": 76.9634,
+    "is_active": true
+  },
+  {
+    "full_name": "Praveen Kumar",
+    "phone_number": "8943219876",
+    "blood_group": "A+",
+    "last_donated_date": "2026-06-03",
+    "latitude": 9.9658,
+    "longitude": 76.2422,
+    "is_active": true
+  },
+  {
+    "full_name": "Deepa Vijayan",
+    "phone_number": "9847712345",
+    "blood_group": "O+",
+    "last_donated_date": "2026-05-25",
+    "latitude": 10.1075,
+    "longitude": 76.3516,
+    "is_active": false
+  },
+  {
+    "full_name": "Santhosh Kumar Iyer",
+    "phone_number": "9943210987",
+    "blood_group": "B+",
+    "last_donated_date": "2026-06-18",
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "is_active": true
+  }
+]
